@@ -147,7 +147,7 @@ for i in range(min(9, len(scoreboard))):
 
     print('{}.  {}:{}{} {}({} - {})'.format(i+1, keys, (13 - len(keys))  * ' ' , round(values[3], 2), (8 -len(str(round(values[3], 2))) ) * ' ' , values[0], values[1] ) )
 
-
+#testi
 
 
 
